@@ -1,2 +1,4 @@
-# ml_ai
-of genomics and genetics
+# Machine Learning and Artifical Intelligence
+## Of Genomics and Genetics
+
+
