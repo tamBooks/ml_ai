@@ -12,5 +12,5 @@
 
 ### Annexo:
 - Modeling.py: python code
-- Modeling.ipynb: hupyer notebook 
+- Modeling.ipynb: jupyter notebook 
 
